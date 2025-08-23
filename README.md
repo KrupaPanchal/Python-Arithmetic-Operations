@@ -29,7 +29,7 @@ Perfect for **beginners** learning Python basics. 🚀
 **Clone this repository:**
 
  - git clone
-   > https://github.com/your-username/Basic-Arithmetic-Operations.git
+   > https://github.com/KrupaPanchal/Python-Arithmetic-Operations.git
 
 
  - Navigate into the project folder:
